@@ -1,0 +1,4 @@
+mediapipe
+tensorflow
+numpy
+cv2
